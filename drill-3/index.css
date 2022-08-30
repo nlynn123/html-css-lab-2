@@ -1,0 +1,47 @@
+body {
+    height: 900px;
+}
+
+h1{
+    background-color: #808080; 
+    height: 100px; 
+}
+
+section  {
+    padding: 25px; 
+}
+
+.children {
+    height: 50px;
+    width: 50px;
+    top: 50%; 
+    
+
+}
+
+#box1 {
+    background-color: lightskyblue;
+    top: 100px;
+    left: 100px;
+}
+
+h2 {
+    background-color: lightskyblue;
+    height: 150px; 
+    
+}
+
+h3 {
+    background-color: lightgreen; 
+    height: 150px; 
+}
+
+h4 {
+    background-color: palegoldenrod; 
+    height: 150px; 
+}
+
+h5 {
+    background-color: yellow; 
+    height: 150px; 
+}
